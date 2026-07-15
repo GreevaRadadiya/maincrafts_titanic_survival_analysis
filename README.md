@@ -1,6 +1,6 @@
 #  Titanic Survival Analysis
 
-A complete Exploratory Data Analysis (EDA) project on the Titanic dataset using Python. This project was completed as part of the **Data Science & Analysis with Python Internship – Task 2** at **Main Crafts Technology**.
+A complete Exploratory Data Analysis (EDA) project on the Titanic dataset using Python. This project was completed as part of the **Data Science & Data Analysis with Python Internship – Task 2** at **Main Crafts Technology**.
 
 The goal of this project is to explore the Titanic dataset, clean the data, visualize important patterns and identify the key factors that influenced passenger survival.
 
